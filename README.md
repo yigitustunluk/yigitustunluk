@@ -11,11 +11,12 @@ ready-to-use list (or a pipeline that keeps it fresh) straight into your spreads
 - **Data enrichment & cleaning** — deduplicate, validate and fill gaps in your existing lists
 - **Automation workflows** — scheduled pipelines that push fresh data into Google Sheets, Airtable or HubSpot
 
-#### Featured project
+#### Featured projects
 
 | Project | What it does |
 |---|---|
 | [**Lead Finder**](https://github.com/yigitustunluk/lead-finder) | Builds local business lead lists for any city and category, enriches them with emails and social links from public websites, and exports to Excel/CSV. |
+| [**n8n Lead Enrichment**](https://github.com/yigitustunluk/n8n-lead-enrichment) | n8n workflow that enriches leads in Google Sheets with contact details and writes an AI-generated business summary and personalized cold-email opener for every row. |
 
 #### Tools I work with
 
