@@ -28,4 +28,11 @@ ready-to-use list (or a pipeline that keeps it fresh) straight into your spreads
 - Clear sample delivered before the full job
 - Fast written communication in English
 
+#### Hire me on Fiverr
+
+| Service | What you get |
+|---|---|
+| [**Targeted B2B lead lists**](https://www.fiverr.com/yigitustunluk/build-a-targeted-b2b-lead-list-with-emails) | Local businesses in any city and industry, with phone, website, email and social profiles |
+| [**n8n automation workflows**](https://www.fiverr.com/yigitustunluk/build-n8n-automation-workflows-with-google-sheets-and-ai) | Workflows connecting your apps, Google Sheets and AI, built and tested in your own n8n |
+
 📍 Turkey · working remotely with clients worldwide · **open for freelance projects**
